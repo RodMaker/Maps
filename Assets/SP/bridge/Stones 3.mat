@@ -21,12 +21,12 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Stones 3
-  m_Shader: {fileID: -6465566751694194690, guid: 11832710a87305a44b1c2ae38698e462, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 11832710a87305a44b1c2ae38698e462,
+    type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _EMISSION
   - _NORMALMAP
-  - _SPECULAR_SETUP
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -134,6 +134,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
@@ -145,9 +146,11 @@ Material:
     - _WorkflowMode: 0
     - _ZWrite: 1
     m_Colors:
-    - Color_0628f9d7003e46019342352bf272d4d8: {r: 1, g: 0.90295523, b: 0.8066038, a: 0}
+    - Color_0628f9d7003e46019342352bf272d4d8: {r: 1, g: 0.90295523, b: 0.8066038,
+        a: 0}
     - Color_4f8ec89cbc5644d3895ea69122cdeaae: {r: 0.8, g: 0.6865083, b: 0, a: 0}
-    - Color_f0942ccb9e4c4cde830044d9844c61df: {r: 0.37254906, g: 0.45012444, b: 1, a: 0}
+    - Color_f0942ccb9e4c4cde830044d9844c61df: {r: 0.37254906, g: 0.45012444, b: 1,
+        a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}

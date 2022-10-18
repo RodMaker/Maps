@@ -7,6 +7,9 @@ ModelImporter:
       74: 1798210493248102937
     second: Armature|Armature|mixamo.com|Falling Idle
   - first:
+      74: 6026938808686379638
+    second: Armature|Armature|mixamo.com|Falling_To_Landing
+  - first:
       74: 6647470997589833608
     second: Armature|Armature|mixamo.com|Jump
   - first:
@@ -27,12 +30,7 @@ ModelImporter:
   - first:
       74: -1616235918753210213
     second: Armature|Armature|mixamo.com|Run_Jump
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Avatar 1
-    second: {fileID: 2100000, guid: f76b777f367d36948a2ae86a42ed400a, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
